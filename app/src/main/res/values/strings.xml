@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">LearnApp</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_title">LearnApp</string>
+
+    <!-- Login -->
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button">Login</string>
+
+
+    <!-- Sign Up -->
+    <string name="signup_name_hint">Full Name</string>
+    <string name="signup_email_hint">Email</string>
+    <string name="signup_password_hint">Password</string>
+    <string name="signup_button">Sign Up</string>
+
+    <!-- Home -->
+    <string name="home_welcome">Welcome to LearnApp</string>
+    <string name="home_course_button">Course Section</string>
+    <string name="home_quiz_button">Quiz Section</string>
+    <string name="home_recommendation_button">Recommendations</string>
+    <string name="home_profile_button">View Profile</string>
+
+    <!-- Course -->
+    <string name="course_title">Course Content</string>
+    <string name="course_text">This is the course content shown here.</string>
+
+    <!-- Quiz -->
+    <string name="quiz_title">Quiz Section</string>
+    <string name="quiz_text">Quiz content and questions go here.</string>
+
+    <!-- Recommendation -->
+    <string name="recommendation_title">Recommendations</string>
+    <string name="recommendation_text">AI-based course and topic suggestions.</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Your Profile</string>
+    <string name="profile_name_label">Name:</string>
+    <string name="profile_email_label">Email:</string>
+</resources>
