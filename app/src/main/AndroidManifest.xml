@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme"
         android:supportsRtl="true">
 
-        <!-- 🔰 Launcher Activity -->
+
         <activity android:name=".SplashActivity"
             android:exported="true">
             <intent-filter>
@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
 
-        <!-- 📱 Other App Screens -->
+
         <activity android:name=".LoginActivity" android:exported="false" />
         <activity android:name=".SignupActivity" android:exported="false" />
         <activity android:name=".HomeActivity" android:exported="false" />
@@ -28,8 +28,10 @@
         <activity android:name=".QuizActivity" android:exported="false" />
         <activity android:name=".RecommendationActivity" android:exported="false" />
         <activity android:name=".ProfileActivity" android:exported="false" />
+        <activity android:name=".LlamaChatActivity" android:exported="false"/>
 
-        <!-- 🆕 New Features -->
+
+
         <activity android:name=".HistoryActivity" android:exported="false"/>
         <activity android:name=".ShareProfileActivity" android:exported="false"/>
         <activity android:name=".UpgradeAccountActivity" android:exported="false"/>
